@@ -1,0 +1,3 @@
+Information about the first student with a diploma:
+Name: John, Age: 22, University: UNFU, Thesis Topic: softwareInformation about the second student with a diploma:
+Name: John, Age: 22, University: , Thesis Topic: 
